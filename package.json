@@ -11,8 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@waku/sdk": "0.0.30-5674b0e.0",
-    "protobufjs": "^7.1.2"
+    "@waku/sdk": "0.0.30-5674b0e.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
